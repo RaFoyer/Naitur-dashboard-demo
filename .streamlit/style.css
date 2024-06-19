@@ -1,0 +1,9 @@
+/* .streamlit/style.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Milk+and+Clay&display=swap');
+
+body {
+    font-family: 'Milk and Clay', sans-serif;
+    background: linear-gradient(to bottom, #40246c, #ffffff);
+    color: #262730;
+}
